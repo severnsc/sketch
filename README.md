@@ -1,0 +1,1 @@
+This is going to be a project testing javascript/jQuery ability. Making a type of sketch pad. From The Odin Project.
