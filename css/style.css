@@ -1,11 +1,15 @@
 .container{
-	width:600px;
-	height:600px;
+	width:500px;
+	height:500px;
 	margin:30px auto;
 }
 .square{
 	display:inline-block;
-	width:6.25%;
-	height:6.25%;
+	width:5.75%;
+	height:5.75%;
 	border:1px solid #000;
+}
+#reset{
+	margin:10px auto;
+	display: block;
 }
